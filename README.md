@@ -2,9 +2,13 @@
 
 ## Project setup
 
-```bash
-npm install
-```
+1. Install dependencies
+
+   ```bash
+   npm install
+   ```
+
+2. Enter your Habitica ID and API token in `.env` (this will be created from `.env.sample` if you don't have an `.env` already)
 
 ### Compiles and hot-reloads for development
 
