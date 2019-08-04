@@ -1,4 +1,6 @@
-# habitica-lite
+# Habitica Lite
+
+A "lite" interface to Habitica emphasizing speed and managing tasks as opposed to being an RPG
 
 ## Project setup
 
